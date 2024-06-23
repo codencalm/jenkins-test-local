@@ -70,7 +70,6 @@
 							<artifactId>lombok</artifactId>
 						</exclude>
 					</excludes>
-					<finalName>javawebapp</finalName>
 				</configuration>
 			</plugin>
 		</plugins>
