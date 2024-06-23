@@ -11,6 +11,7 @@
 	<groupId>com.happymemories</groupId>
 	<artifactId>happy-memories</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
+	<packaging>war</packaging>
 	<name>happy-memories</name>
 	<description>Project for Happy Memories</description>
 	<properties>
